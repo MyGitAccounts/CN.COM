@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2c7fa6a-4405-4eee-8dda-627dd98a8186/deploy-status)](https://app.netlify.com/sites/ishould/deploys)
 ---
 home: true
 // # heroImage: /hero.png
